@@ -5,7 +5,7 @@ header-img: img/post-bg.jpg
 email: 775356092@qq.com
 description: "关于程序与设计、黑客与画家 | 王豪，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Ruai王豪 的个人博客，与你一起发现更大的世界。"
 keyword: "王豪, Hux王豪, Hux, 鬼栈, huxpro, @huxpro, 王豪的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://wanghao.press"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -79,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-ruai.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-ruai.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
